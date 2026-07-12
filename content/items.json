@@ -16,5 +16,6 @@
   {"slug":"luk-lesnego-szeptu","name":"Łuk Leśnego Szeptu","description":"Łuk wyrzeźbiony z żywego drewna, które wciąż pamięta szept lasu."},
   {"slug":"kolczan-strzal-wiatru","name":"Kołczan Strzał Wiatru","description":"Kołczan pełen strzał lekkich jak powiew wiatru."},
   {"slug":"zielony-plaszcz-skrytosci","name":"Zielony Płaszcz Skrytości","description":"Płaszcz, w którym łatwo zniknąć wśród liści i cieni."},
-  {"slug":"amulet-harmonii","name":"Amulet Harmonii","description":"Amulet przywracający spokój i równowagę."}
+  {"slug":"amulet-harmonii","name":"Amulet Harmonii","description":"Amulet przywracający spokój i równowagę."},
+  {"slug":"mlot-sterowania","name":"Młot sterowania","description":"Młot, który można wystrzelić w dowolnym kierunku i sterować nim na odległość za pomocą rękawicy sterowania."}
 ]
