@@ -1,0 +1,3 @@
+import { Map } from "@/components/Map"; import { PrintButton } from "@/components/PrintButton"; import { SectionTitle } from "@/components/SectionTitle";
+export const metadata={title:"Mapa wyspy"};
+export default function Page(){return <div className="shell page map-page"><div className="title-row"><SectionTitle eyebrow="Atlas odkrywcy" title="Mapa wyspy" intro="Każdy znacznik prowadzi do historii miejsca. Znak zapytania oznacza zakątek, który wciąż czeka na odkrycie."/><PrintButton label="Drukuj mapę A3"/></div><Map/><div className="legend"><span><i className="dot visited"/> miejsce odwiedzone</span><span><i className="dot unknown"/> jeszcze nieodkryte</span></div></div>}

@@ -1,0 +1,3 @@
+import Link from "next/link"; import { SectionTitle } from "@/components/SectionTitle"; import { characters } from "@/lib/content"; import { assetPath } from "@/lib/paths";
+export const metadata={title:"Bohaterowie"};
+export default function Page(){return <div className="shell page"><SectionTitle eyebrow="Drużyna" title="Nasi bohaterowie" intro="Każdy wnosi do opowieści coś wyjątkowego: odwagę, ciekawość i dobre pomysły."/><div className="character-grid">{characters.map(c=><Link href={`/bohaterowie/${c.slug}`} className="character-card" key={c.slug}><img src={assetPath(c.image)} alt={`Portret: ${c.name}`}/><div><p className="eyebrow">Bohater wyspy</p><h2>{c.name}</h2><p>{c.description}</p><span className="card-link">Poznaj bohatera →</span></div></Link>)}</div></div>}

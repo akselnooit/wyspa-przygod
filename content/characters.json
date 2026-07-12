@@ -1,0 +1,4 @@
+[
+  {"slug":"luna","name":"Luna","description":"Ciekawa świata odkrywczyni, która zawsze zauważa, gdy ktoś potrzebuje pomocy.","appearance":"Nosi koralowy płaszczyk, zielony plecak i kapelusz z piórkiem.","abilities":["Rozmawia ze zwierzętami","Znajduje ukryte ślady","Pamięta piękne melodie"],"items":["blekitny-kamyk","kompas-zyczen"],"adventures":["sekret-starego-debu","swiatlo-z-latarni"],"image":"/characters/luna.svg"},
+  {"slug":"teo","name":"Teo","description":"Pomysłowy budowniczy i najlepszy przyjaciel wszystkich małych stworzeń.","appearance":"Ma złotą chustkę, błękitną kamizelkę i kieszenie pełne sznurka.","abilities":["Naprawia drobne rzeczy","Buduje bezpieczne mostki","Rozśmiesza smutne skrzaty"],"items":["mapa-szeptow","kompas-zyczen"],"adventures":["sekret-starego-debu","swiatlo-z-latarni"],"image":"/characters/teo.svg"}
+]
