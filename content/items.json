@@ -9,5 +9,6 @@
   {"slug":"amulet-rozmow-ze-zwierzetami","name":"Amulet rozmów ze zwierzętami","description":"Pozwala porozumieć się ze zwierzętami leśnymi i wodnymi."},
   {"slug":"ksiega-zaklec","name":"Księga zaklęć","description":"Stara księga pełna zapisanych zaklęć."},
   {"slug":"deska-latania","name":"Deska latania","description":"Drewniana deska, która na chwilę unosi w powietrze."},
-  {"slug":"monety","name":"Monety","description":"Woreczek z 25 złotymi monetami."}
+  {"slug":"monety","name":"Monety","description":"Woreczek ze złotymi monetami."},
+  {"slug":"rekawica-sterowania","name":"Rękawica sterowania","description":"Metalowa rękawica, która pozwala sterować mocą prądu."}
 ]
