@@ -12,5 +12,9 @@
   {"slug":"monety","name":"Monety","description":"Woreczek ze złotymi monetami."},
   {"slug":"rekawica-sterowania","name":"Rękawica sterowania","description":"Metalowa rękawica, która pozwala sterować mocą prądu."},
   {"slug":"miecz-ognia","name":"Miecz ognia","description":"Miecz, którego ostrze płonie żywym ogniem."},
-  {"slug":"halabarda","name":"Halabarda","description":"Długa halabarda, jaką nosili dawni strażnicy porządku."}
+  {"slug":"halabarda","name":"Halabarda","description":"Długa halabarda, jaką nosili dawni strażnicy porządku."},
+  {"slug":"luk-lesnego-szeptu","name":"Łuk Leśnego Szeptu","description":"Łuk wyrzeźbiony z żywego drewna, które wciąż pamięta szept lasu."},
+  {"slug":"kolczan-strzal-wiatru","name":"Kołczan Strzał Wiatru","description":"Kołczan pełen strzał lekkich jak powiew wiatru."},
+  {"slug":"zielony-plaszcz-skrytosci","name":"Zielony Płaszcz Skrytości","description":"Płaszcz, w którym łatwo zniknąć wśród liści i cieni."},
+  {"slug":"amulet-harmonii","name":"Amulet Harmonii","description":"Amulet przywracający spokój i równowagę."}
 ]
