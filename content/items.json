@@ -1,5 +1,13 @@
 [
   {"slug":"blekitny-kamyk","name":"Błękitny Kamyk","description":"Gładki kamyk, który delikatnie lśni w pobliżu wody."},
   {"slug":"mapa-szeptow","name":"Mapa Szeptów","description":"Papierowa mapa, na której nowe ścieżki pojawiają się po dobrym uczynku."},
-  {"slug":"kompas-zyczen","name":"Kompas Życzeń","description":"Nie wskazuje północy — pokazuje drogę do kogoś, kto potrzebuje pomocy."}
+  {"slug":"kompas-zyczen","name":"Kompas Życzeń","description":"Nie wskazuje północy — pokazuje drogę do kogoś, kto potrzebuje pomocy."},
+  {"slug":"bransoletka","name":"Bransoletka","description":"Bransoletka z korali z małym złotym medalionem."},
+  {"slug":"krysztal-ognia","name":"Kryształ ognia","description":"Czerwony kryształ, w którym drzemie ciepły płomień."},
+  {"slug":"wloczka","name":"Włóczka","description":"Kłębek mocnej włóczki, przydatny w niejednej opresji."},
+  {"slug":"rog-wody","name":"Róg wody","description":"Rogowe naczynie, z którego zawsze można nalać odrobinę czystej wody."},
+  {"slug":"amulet-rozmow-ze-zwierzetami","name":"Amulet rozmów ze zwierzętami","description":"Pozwala porozumieć się ze zwierzętami leśnymi i wodnymi."},
+  {"slug":"ksiega-zaklec","name":"Księga zaklęć","description":"Stara księga pełna zapisanych zaklęć."},
+  {"slug":"deska-latania","name":"Deska latania","description":"Drewniana deska, która na chwilę unosi w powietrze."},
+  {"slug":"monety","name":"Monety","description":"Woreczek z 25 złotymi monetami."}
 ]
