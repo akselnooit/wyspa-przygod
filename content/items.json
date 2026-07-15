@@ -18,5 +18,8 @@
   {"slug":"zielony-plaszcz-skrytosci","name":"Zielony Płaszcz Skrytości","description":"Płaszcz, w którym łatwo zniknąć wśród liści i cieni."},
   {"slug":"amulet-harmonii","name":"Amulet Harmonii","description":"Amulet przywracający spokój i równowagę."},
   {"slug":"mlot-sterowania","name":"Młot sterowania","description":"Młot, który można wystrzelić w dowolnym kierunku i sterować nim na odległość za pomocą rękawicy sterowania."},
-  {"slug":"amulet-rycerza-posagu","name":"Amulet Rycerza Posągu","description":"Mały amulet, który pozwala przywołać na pomoc kamiennego rycerza-posąg."}
+  {"slug":"amulet-rycerza-posagu","name":"Amulet Rycerza Posągu","description":"Mały amulet, który pozwala przywołać na pomoc kamiennego rycerza-posąg."},
+  {"slug":"nasionko-budowniczka","name":"Nasionko Budowniczka","description":"Zasadzone w ziemi, sprawia, że wyrasta z niego mały pomocnik, który potrafi zbudować różne rzeczy."},
+  {"slug":"zbroja-latarnika","name":"Zbroja Latarnika","description":"Zbroja podarowana przez starca ze szczytu latarni morskiej."},
+  {"slug":"nasionko-pomocniczki","name":"Nasionko Pomocniczki","description":"Rzucone na ziemię, przywołuje małą pomocniczkę."}
 ]
