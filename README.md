@@ -28,6 +28,8 @@ Powiązania korzystają ze stabilnych `slug`. Aby dodać przygodę, dopisz rekor
 
 Obrazy dodawaj do odpowiedniego folderu w `public/` i zapisuj ich ścieżki od `/`, np. `/adventures/piknik.webp`. Nie używaj zewnętrznych URL-i.
 
+Kanoniczny prompt stylu graficznego do generowania nowych ilustracji jest w [`docs/art-style-prompt.md`](docs/art-style-prompt.md).
+
 ## Druk
 
 Przyciski na mapie, kartach i kronice otwierają systemowy dialog wydruku. Mapa używa układu A3 poziomo, karta bohatera A4, a ważne bloki unikają podziału między stronami.
